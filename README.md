@@ -1,6 +1,6 @@
 # 📝 Convertidor TXT → Markdown para Obsidian
 
-> **Free · No installation required · Works in Google Colab**
+> **Free · No installation required · Works in Google Colab ·**
 > **Gratis · Sin instalación · Funciona en Google Colab**
 > **無料 · インストール不要 · Google Colabで動作**
 
